@@ -1,5 +1,5 @@
 # AdventureWorks-Customer-Directory-Table
-An interactive Power BI customer directory &amp; transaction breakdown table built on the AdventureWorksDW dataset. Features high-density record profiling, demographic filtering, and formatted revenue tracking.
+An interactive Power BI customer directory &amp; transaction breakdown table built on the AdventureWorksDW dataset. Features high-density record profiling, demographic filtering, and formatted revenue tracking FOR SYNTECX HUB internship.
 # 📋 Customer Directory & Transaction Detail Table (Power BI)
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
