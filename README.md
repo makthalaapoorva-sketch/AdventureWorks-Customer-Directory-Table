@@ -78,4 +78,4 @@ The detail table aggregates fields from dimensional (`DimCustomer`) and transact
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/AdventureWorks-Customer-Directory-Table.git](https://github.com/YOUR_USERNAME/AdventureWorks-Customer-Directory-Table.git)
+   git clone [https://github.com/makthalaapoorva-sketch/AdventureWorks-Customer-Directory-Table.git](https://github.com/makthalaapoorva-sketch/AdventureWorks-Customer-Directory-Table.git)
